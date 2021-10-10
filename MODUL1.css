@@ -1,0 +1,90 @@
+p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(212, 212, 212);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(212, 212, 212);
+}
+    
+
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 20;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+    font-size: 20px;
+    padding: 5px;
+}
+
+p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+
+p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+    font-size: 15px;
+}
+
+p1:hover{
+    color: rgb(133, 133, 133);
+  }
+
+body {
+    background-color: rgb(231, 231, 231);
+    margin: 0px;
+    padding: 0px;
+}
+
+body1 {
+    background-color: rgb(22, 0, 0);
+    margin: 0px;
+    padding: 0px;
+}
+
+.jumbotron {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    width: 40px;
+    height: 350px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 50%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card-text {
+    margin: 0px;
+    padding: 0px;
+    text-justify: ;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: 0px;
+    top: 1920px;
+}
